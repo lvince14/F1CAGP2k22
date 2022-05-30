@@ -10,7 +10,7 @@
 
 #### 2300-0100
 - Check in to the [AirBnB], unload vehicle and proceed to locate [parking] facilities.
-- Lights out no later than 0100 hours, no recreational activities are encouraged to be conducted this evening, ==a good night's rest is criticial and will set us for success for the following days.==
+- Lights out no later than 0100 hours, no recreational activities are encouraged to be conducted this evening, ***a good night's rest is criticial and will set us for success for the following days.***
 
 ### Friday
 #### 0730
@@ -51,7 +51,7 @@
 - FORMULA 1 GRAND PRIX DU CANADA 2022 (70 Laps or 120 Minutes)
 
 #### TBD
-- ==McBride family dinner== This is the latest time at which we are expected to be returned from our journey.
+- ***McBride family dinner*** This is the latest time at which we are expected to be returned from our journey.
 
 ## Attending the Grand Prix 🏁
 
@@ -64,7 +64,7 @@ For Saturday, we will be seating in Grand stand 46. Our seats will be reserved t
 
 Please try your best to learn the layout of the circuit as it is easier to navigate through the circuit and locate ourselves by calling out the corners and grandstands. ![alt text](https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Canada_Circuit.png.transform/9col/image.png)
 
-> Note: Due to availability and resource constraints, we were unable to secure the most optimal and cost-efficient seats for the best possible viewing experience. ==Please adjust your expectations accordingly and understand that, this experience is only as good as what you can make of it.== Enjoy the day, the atmosphere and the company. :)
+> Note: Due to availability and resource constraints, we were unable to secure the most optimal and cost-efficient seats for the best possible viewing experience. ***Please adjust your expectations accordingly and understand that, this experience is only as good as what you can make of it.*** Enjoy the day, the atmosphere and the company. :)
 
 ## Other Events 🎉
 
@@ -96,7 +96,7 @@ The [Crescent Street Grand Prix Festival] is happening on June 16th(Thursday) to
 
 
 
-> Note: 1. ==Items that are bolded are to be considered essential==. 2. Officially alcoholic drinks will ==NOT== be allowed to be brought into the race track, we should be to get around this by filling various beverages(wine is possibly highly recommended) into non plastic water bottles and thermos. 3. The necessity of poncho and umbrealla will be depended on the weather which can not be determined at this time.
+> Note: 1. ***Items that are bolded are to be considered essential***. 2. Officially alcoholic drinks will ***NOT*** be allowed to be brought into the race track, we should be to get around this by filling various beverages(wine is possibly highly recommended) into non plastic water bottles and thermos. 3. The necessity of poncho and umbrealla will be depended on the weather which can not be determined at this time.
 
 
 
