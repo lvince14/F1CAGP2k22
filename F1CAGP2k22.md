@@ -9,7 +9,7 @@
 - Maddie will arrive in Toronto with the Dodge mini van, all partiipants should rendezvou at 16 Harbour Street due to the swift egress to the Gardiner Express. It is expected that all cargo shall be loaded and that we are wheels up no later than 1730 hours.
 
 #### 2300-0100
-- Check in to the [AirBnB], unload vehicle and proceed to locate [parking] facilities.
+- Check in to the [AirBnB], unload vehicle and proceed to locate [parking] facilities. (Make sure you're logged in to AirBnB to view the listing [here])
 - Lights out no later than 0100 hours, no recreational activities are encouraged to be conducted this evening, ***a good night's rest is criticial and will set us for success for the following days.***
 
 ### Friday
@@ -104,6 +104,7 @@ The [Crescent Street Grand Prix Festival] is happening on June 16th(Thursday) to
 [//]: # 
 
    [Crescent Street Grand Prix Festival]: <http://crescentgrandprix.com/?page_id=7&lang=en>
+   [here]: <https://www.airbnb.ca/rooms/48939546?source_impression_id=p3_1653889876_76IkekGD9JHvSJ8O>
    [AirBnB]: <https://www.google.ca/maps/place/2035+Crescent+St,+Montreal,+QC+H3G+2C1/@45.498383,-73.5820728,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a41cf22f86d:0x83eb1e00118244d0!8m2!3d45.4983793!4d-73.5775881>
    [parking]: <https://www.google.ca/maps/search/Parking/@45.4980985,-73.5769949,16.75z/data=!4m7!2m6!3m5!2s2035+Crescent+St!3s0x4cc91a41cf22f86d:0x83eb1e00118244d0!4m2!1d-73.5775881!2d45.4983793>
    [reach]: <https://www.google.ca/maps/dir/2035+Crescent+St,+Montreal,+QC+H3G+2C1/Circuit+Gilles+Villeneuve,+Montreal,+QC/@45.5058722,-73.5622199,15z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x4cc91a41cf22f86d:0x83eb1e00118244d0!2m2!1d-73.5775881!2d45.4983793!1m5!1m1!1s0x4cc91ae0e99de82f:0xe0144f3fc885389b!2m2!1d-73.5280341!2d45.5016487!2m3!6e1!7e2!8j1655452800!3e3>
