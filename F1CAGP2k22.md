@@ -6,7 +6,7 @@
 ### Thursday 
 #### 1700
 
-- Maddie will arrive in Toronto with the Dodge mini van, all participants should rendezvous at 16 Harbour Street due to its swift egress route to the Gardiner Expressway. It is expected that all cargo shall be loaded and that we are wheels up no later than 1730 hours.
+- Maddie will arrive in Toronto with the Cheverlot town and country mini van, all participants should rendezvous at 16 Harbour Street due to its swift egress route to the Gardiner Expressway. It is expected that all cargo shall be loaded and that we are wheels up no later than 1730 hours.
 
 #### 2300-0100
 - Check in to the [AirBnB], unload vehicle and proceed to locate [parking] facilities. (Make sure you're logged in to AirBnB to view the listing [here])
@@ -95,10 +95,21 @@ The [Crescent Street Grand Prix Festival] is happening on June 16th(Thursday) to
 | *Alcohol* |  |
 
 
-
 > Note: 1. ***Items that are bolded are to be considered essential***. 2. Officially alcoholic drinks will ***NOT*** be allowed to be brought into the race track, we should be able to get around this by filling various beverages(wine is possibly highly recommended) into non plastic water bottles and thermos. 3. The necessity of poncho and umbrealla will be depended on the weather which can not be determined at this time.
 
 
+## Expense Tracking 💸
+
+For keeping track of shared expenses during this trip. [Splitwise] will be used, please kindly make sure you sign up for an account use this [link] to be added to the group. Main expenses categories that should be logged include race tickets(if you are attending), lodging(on a per night basis, $500/# of occupants for the night), refueling the Cheverlot town and country mini van and its parking(if you are transported by it), groceries, assorted beverages that are meant to be shared and other miscellaneous expenses.
+
+
+## Closing Remarks
+
+```sh
+This is a gentle reminder that all aspects and planning outlined in this guide are mere suggestions and subject to change at a moment's notice. As the saying goes, 'No plan survives first contact with the enemy.' it is recommended that we try to reach the maximum level of flexibility possible, keep all channels of communication open, manage expectations accordingly, last but not least, enjoy this great weekend and let's make some unforgettable memories.
+```
+
+**Keep it flat out!**
 
 
 [//]: # 
@@ -110,3 +121,5 @@ The [Crescent Street Grand Prix Festival] is happening on June 16th(Thursday) to
    [reach]: <https://www.google.ca/maps/dir/2035+Crescent+St,+Montreal,+QC+H3G+2C1/Circuit+Gilles+Villeneuve,+Montreal,+QC/@45.5058722,-73.5622199,15z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x4cc91a41cf22f86d:0x83eb1e00118244d0!2m2!1d-73.5775881!2d45.4983793!1m5!1m1!1s0x4cc91ae0e99de82f:0xe0144f3fc885389b!2m2!1d-73.5280341!2d45.5016487!2m3!6e1!7e2!8j1655452800!3e3>
    [activities]: <https://www.gpcanada.ca/en/off-track-activities/>
    [cooler]: <https://www.gpcanada.ca/en/faqs/>
+   [Splitwise]: <https://www.splitwise.com/>
+   [link]: <https://www.splitwise.com/join/wLEjzGKyun5+jpa8s>
