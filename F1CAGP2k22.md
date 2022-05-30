@@ -10,7 +10,7 @@
 
 #### 2300-0100
 - Check in to the [AirBnB], unload vehicle and proceed to locate [parking] facilities. (Make sure you're logged in to AirBnB to view the listing [here])
-- Lights out no later than 0100 hours, no recreational activities are encouraged to be conducted this evening, ***a good night's rest is criticial and will set us for success for the following days.***
+- Lights out no later than 0100 hours, no recreational activities are encouraged to be conducted this evening, ***a good night's rest is criticial and will set us up for success for the following days.***
 
 ### Friday
 #### 0730
@@ -100,7 +100,7 @@ The [Crescent Street Grand Prix Festival] is happening on June 16th(Thursday) to
 
 ## Expense Tracking 💸
 
-For keeping track of shared expenses during this trip. [Splitwise] will be used, please kindly make sure you sign up for an account use this [link] to be added to the group. Main expenses categories that should be logged include race tickets(if you are attending), lodging(on a per night basis, $500/# of occupants for the night), refueling the Cheverlot town and country mini van and its parking(if you are transported by it), groceries, assorted beverages that are meant to be shared and other miscellaneous expenses.
+For keeping track of shared expenses during this trip. [Splitwise] will be used, please kindly make sure you sign up for an account, then use this [link] to be added to the group. Main expenses categories that should be logged include race tickets(if you are attending), lodging(on a per night basis, $500/# of occupants for the night), refueling the Cheverlot town and country mini van and its parking(if you are transported by it), groceries, assorted beverages that are meant to be shared and other miscellaneous expenses.
 
 
 ## Closing Remarks
