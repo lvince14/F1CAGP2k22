@@ -96,7 +96,7 @@ The [Crescent Street Grand Prix Festival] is happening on June 16th(Thursday) to
 
 
 
-> Note: 1. ***Items that are bolded are to be considered essential***. 2. Officially alcoholic drinks will ***NOT*** be allowed to be brought into the race track, we should be to get around this by filling various beverages(wine is possibly highly recommended) into non plastic water bottles and thermos. 3. The necessity of poncho and umbrealla will be depended on the weather which can not be determined at this time.
+> Note: 1. ***Items that are bolded are to be considered essential***. 2. Officially alcoholic drinks will ***NOT*** be allowed to be brought into the race track, we should be able to get around this by filling various beverages(wine is possibly highly recommended) into non plastic water bottles and thermos. 3. The necessity of poncho and umbrealla will be depended on the weather which can not be determined at this time.
 
 
 
