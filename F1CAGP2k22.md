@@ -6,7 +6,7 @@
 ### Thursday 
 #### 1700
 
-- Maddie will arrive in Toronto with the Dodge mini van, all participants should rendezvous at 16 Harbour Street due its swift egress route to the Gardiner Expressway. It is expected that all cargo shall be loaded and that we are wheels up no later than 1730 hours.
+- Maddie will arrive in Toronto with the Dodge mini van, all participants should rendezvous at 16 Harbour Street due to its swift egress route to the Gardiner Expressway. It is expected that all cargo shall be loaded and that we are wheels up no later than 1730 hours.
 
 #### 2300-0100
 - Check in to the [AirBnB], unload vehicle and proceed to locate [parking] facilities. (Make sure you're logged in to AirBnB to view the listing [here])
