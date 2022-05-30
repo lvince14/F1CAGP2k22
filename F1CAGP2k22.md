@@ -107,8 +107,8 @@ For keeping track of shared expenses during this trip. [Splitwise] will be used,
 
 ```sh
 This is a gentle reminder that all aspects and planning outlined in this guide are mere suggestions and subject to change at a moment's notice.
-As the saying goes, 'No plan survives first contact with the enemy.' 
-it is recommended that we try to reach the maximum level of flexibility possible, 
+As the saying goes, "No plan survives first contact with the enemy."
+it is recommended that we try our best to adapt and improvise as the situation evovles.
 keep all channels of communication open, 
 manage expectations accordingly, 
 last but not least, enjoy this great weekend and let's make some unforgettable memories.
