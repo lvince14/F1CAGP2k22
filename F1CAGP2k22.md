@@ -103,6 +103,12 @@ The [Crescent Street Grand Prix Festival] is happening on June 16th(Thursday) to
 For keeping track of shared expenses during this trip. [Splitwise] will be used, please kindly make sure you sign up for an account, then use this [link] to be added to the group. Main expenses categories that should be logged include race tickets(if you are attending), lodging(on a per night basis, $500/# of occupants for the night), refueling the Cheverlot town and country mini van and its parking(if you are transported by it), groceries, assorted beverages that are meant to be shared and other miscellaneous expenses.
 
 
+## Trip Playlist 🎵
+
+Please feel free to use this [link] to add whatever you like to listen to this spotify [playlist].
+
+As an alternative option, here is a list of [podcasts] that I personally enjoyed.
+
 ## Closing Remarks
 
 ```sh
@@ -128,3 +134,6 @@ last but not least, enjoy this great weekend and let's make some unforgettable m
    [cooler]: <https://www.gpcanada.ca/en/faqs/>
    [Splitwise]: <https://www.splitwise.com/>
    [link]: <https://www.splitwise.com/join/wLEjzGKyun5+jpa8s>
+   [playlist]: <https://open.spotify.com/playlist/1kRenabePcLoWDngJb6Wxv?si=423c6e43ce6144f0>
+   [link]: <https://open.spotify.com/playlist/1kRenabePcLoWDngJb6Wxv?si=6758edc63c7d4c8f&pt=4a7020dbe90a453fdac54e44c1179200>
+   [podcasts]: <https://open.spotify.com/playlist/6QA7Vx1hICZUxrgitdAAIT?si=d7a8bc92b78f4e49>
