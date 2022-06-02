@@ -50,8 +50,8 @@
 #### 1400-1600
 - FORMULA 1 GRAND PRIX DU CANADA 2022 (70 Laps or 120 Minutes)
 
-#### TBD
-- ***McBride family dinner*** This is the latest time at which we are expected to be returned from our journey.
+#### 1600
+- ***McBride family dinner*** We conclude our journey and arrive back in Toronto.
 
 ## Attending the Grand Prix 🏁
 
