@@ -1,5 +1,5 @@
 # F1 Canadian Grand Prix Survival Guide 🏎️🏎️
-[![N|Solid](https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/248411108_4839690032708217_1392094240337984301_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=XaeeTAZVO2sAX-LpgFl&_nc_ht=scontent-yyz1-1.xx&oh=00_AT-iEF9DSgbgci3m50CzrdfRgtT_mJuiQzShTDvDYhZS7w&oe=6298252F)]()
+[![N|Solid](https://www.gpcanada.ca/wp-content/uploads/2021/10/2022-canada-etg-licensee-pos-standard.png)]()
 
 
 ## Schedule ⏲️
