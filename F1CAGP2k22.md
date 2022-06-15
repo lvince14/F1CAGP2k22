@@ -36,6 +36,9 @@
 #### 0830-1145
 - Various support races will run their practice sessions, Nissan Sentra Cup, Ferrari Challenge etc
 
+#### 1030-1130
+- **DRIVERS AUTOGRAPH SESSION**
+
 #### 1150-1220
 - F1 Teams will practice pit stops in the pitlane.
 
